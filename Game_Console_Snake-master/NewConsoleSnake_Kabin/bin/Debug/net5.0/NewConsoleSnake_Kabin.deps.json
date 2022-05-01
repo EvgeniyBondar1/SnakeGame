@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NewConsoleSnake_Kabin/1.0.0": {
+        "runtime": {
+          "NewConsoleSnake_Kabin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewConsoleSnake_Kabin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
