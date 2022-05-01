@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\bin\Debug\net5.0\NewConsoleSnake_Kabin.exe
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\bin\Debug\net5.0\NewConsoleSnake_Kabin.deps.json
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\bin\Debug\net5.0\NewConsoleSnake_Kabin.runtimeconfig.json
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\bin\Debug\net5.0\NewConsoleSnake_Kabin.runtimeconfig.dev.json
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\bin\Debug\net5.0\NewConsoleSnake_Kabin.dll
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\bin\Debug\net5.0\ref\NewConsoleSnake_Kabin.dll
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\bin\Debug\net5.0\NewConsoleSnake_Kabin.pdb
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\NewConsoleSnake_Kabin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\NewConsoleSnake_Kabin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\NewConsoleSnake_Kabin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\NewConsoleSnake_Kabin.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\NewConsoleSnake_Kabin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\NewConsoleSnake_Kabin.dll
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\ref\NewConsoleSnake_Kabin.dll
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\NewConsoleSnake_Kabin.pdb
+C:\Users\User\Desktop\Обучение С#\змейка 3\Game_Console_Snake-master\NewConsoleSnake_Kabin\obj\Debug\net5.0\NewConsoleSnake_Kabin.genruntimeconfig.cache
