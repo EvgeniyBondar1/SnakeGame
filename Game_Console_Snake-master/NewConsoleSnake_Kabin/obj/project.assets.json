@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Обучение С#\\змейка 3\\Game_Console_Snake-master\\NewConsoleSnake_Kabin\\NewConsoleSnake_Kabin.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\EvgeniyBondar1\\Game_Console_Snake-master\\NewConsoleSnake_Kabin\\NewConsoleSnake_Kabin.csproj",
       "projectName": "NewConsoleSnake_Kabin",
-      "projectPath": "C:\\Users\\User\\Desktop\\Обучение С#\\змейка 3\\Game_Console_Snake-master\\NewConsoleSnake_Kabin\\NewConsoleSnake_Kabin.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\EvgeniyBondar1\\Game_Console_Snake-master\\NewConsoleSnake_Kabin\\NewConsoleSnake_Kabin.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Обучение С#\\змейка 3\\Game_Console_Snake-master\\NewConsoleSnake_Kabin\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\EvgeniyBondar1\\Game_Console_Snake-master\\NewConsoleSnake_Kabin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

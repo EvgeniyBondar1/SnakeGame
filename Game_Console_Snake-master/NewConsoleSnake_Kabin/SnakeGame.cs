@@ -46,13 +46,15 @@ namespace NewConsoleSnake_Kabin
             Console.Clear();
             field.Draw();
             Console.SetCursorPosition(field._windowWidth / 2 - 2, field._windowHeight / 2 + 1);
-            Console.WriteLine("Game Over!");
+            Console.WriteLine("Game Over!!!");
             Console.SetCursorPosition(field._windowWidth / 2 - 3, field._windowHeight / 2 + 2);
             Console.Write("You score: {0}", score);
             Console.SetCursorPosition(field._windowWidth / 2 - 17, field._windowHeight / 2 + 3);
             Console.Write("Нажмите клавишу R чтобы начать игру снова");
             Console.SetCursorPosition(field._windowWidth / 2 - 10, field._windowHeight / 2 + 4);
             Console.Write("или Esc чтобы выйти из игры");
+            Console.WriteLine();
+            Console.WriteLine();
             if (RetryGame())
             {
                 Console.Clear();
