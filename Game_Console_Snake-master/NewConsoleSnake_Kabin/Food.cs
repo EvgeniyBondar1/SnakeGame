@@ -18,7 +18,7 @@ namespace NewConsoleSnake_Kabin
             XPosition = rnd.Next(1, field._windowWidth + 1);
             YPosition = rnd.Next(1, field._windowHeight + 1);
             Console.SetCursorPosition(XPosition,YPosition);
-            Console.WriteLine("$");
+            Console.WriteLine("@");
         }
     }
 }
